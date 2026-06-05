@@ -1,29 +1,29 @@
 {
   "profile": {
-    "name": "Mỹ Duyên Beauty 🌸",
-    "bioText": "Beauty Blogger | Chia sẻ tips dưỡng da & review đồ gia dụng cao cấp chính hãng. Nhận deal hời tại các link bên dưới nhé! 👇",
-    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+    "name": "Minh Quân Review",
+    "bioText": "Chào mọi người, ở đây mình đăng những sản phẩm mình thực tế dùng, hầu hết là những sản phẩm đáng tham khảo. Nhận deal hời tại các link bên dưới nhé! 👇",
+    "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/ba64ad89a469996f1826f96a002c6cba~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2ebd7b6e&x-expires=1780804800&x-signature=%2FIzVK2p2CZ%2Ftn6SxUiCdPWs2ZiY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
     "layoutTheme": "frosted-glass",
     "socialLinks": [
       {
         "platform": "tiktok",
-        "url": "https://tiktok.com/@myduyen.beauty"
+        "url": "https://tiktok.com/@quanreviewnhanh"
       },
       {
         "platform": "youtube",
-        "url": "https://youtube.com/myduyenbeauty"
+        "url": ""
       },
       {
         "platform": "instagram",
-        "url": "https://instagram.com/myduyen.beauty"
+        "url": ""
       },
       {
         "platform": "facebook",
-        "url": "https://facebook.com/myduyen.blogger"
+        "url": ""
       },
       {
         "platform": "zalo",
-        "url": "https://zalo.me/0987654321"
+        "url": ""
       }
     ],
     "categories": [
@@ -8001,5 +8001,5 @@
       "device": "Mobile"
     }
   ],
-  "updatedAt": "2026-06-05T04:57:11.061Z"
+  "updatedAt": "2026-06-05T05:03:58.043Z"
 }
